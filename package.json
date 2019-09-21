@@ -1,0 +1,34 @@
+{
+  "name": "pwa-firebase-exp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "axios": "^0.18.1",
+    "bootstrap": "^4.3.1",
+    "firebase": "^6.6.2",
+    "lodash": "^4.17.15",
+    "popper": "^1.0.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-cookie": "^2.1.6",
+    "react-dom": "^16.4.0",
+    "react-json-parser": "^0.2.1",
+    "react-log": "^4.0.0",
+    "react-proptypes": "^1.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux-cache": "^0.3.0",
+    "startbootstrap-new-age": "^4.0.0",
+    "superagent": "^3.8.3",
+    "three": "^0.93.0",
+    "three.ar.js": "^0.1.8",
+    "three.js": "^0.77.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

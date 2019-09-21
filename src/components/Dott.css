@@ -1,0 +1,202 @@
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("med.png");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cg { 
+    /* The image used */
+    background-image: url("home.jpg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dg { 
+    /* The image used */
+    background-image: url("Info.jpg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.eg { 
+    /* The image used */
+    background-image: url("medi.jpg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fg { 
+    /* The image used */
+    background-image: url("medi.jpg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gg { 
+    /* The image used */
+    background-image: url("back.jpg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hg { 
+    /* The image used */
+    background-image: url("pexels.jpeg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ig { 
+    /* The image used */
+    background-image: url("imagez.jpeg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:200px;
+
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jg { 
+    /* The image used */
+    background-image: url("cg.jpg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:auto;
+
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kg { 
+    /* The image used */
+    background-image: url("dis.jpeg");
+
+    /* Full height */
+    height: 100%; 
+    position: fixed;
+    right:0;
+    left:0;
+    line-height:auto;
+
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapperz {
+    float: left;
+    padding: 2px 5px;
+    border: 1px solid black;
+}
+DottedBox {
+    margin: 100px;
+    border: 100px dotted pink;
+    text-align: center;
+    line-height: 200px;
+  }
+  
+  .DottedBox_content {
+    font-size: 100px;
+    text-align: center;
+    background-image: url("./background.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+img{
+    display:block;
+    width:100%; height:100%;
+    object-fit: cover;
+  }

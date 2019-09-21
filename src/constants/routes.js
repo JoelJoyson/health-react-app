@@ -1,0 +1,14 @@
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const LANDING = '/';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const PASSWORD_FORGET = '/pw-forget';
+export const Info='/info';
+export const Buy='/buy';
+export const Medicinal='/medicine';
+export const Diseases='/diseases';
+export const Food='/food';
+export const APICALL='/apicall';
+export const DiseaseApiCall='/diseaseapicall';
+export const Upload='/upload';
