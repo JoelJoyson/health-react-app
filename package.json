@@ -21,7 +21,7 @@
     "redux-cache": "^0.3.0",
     "startbootstrap-new-age": "^4.0.0",
     "superagent": "^3.8.3",
-    "three": "^0.93.0",
+    "three": "^0.125.0",
     "three.ar.js": "^0.1.8",
     "three.js": "^0.77.1"
   },
